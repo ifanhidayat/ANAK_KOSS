@@ -1,14 +1,14 @@
 ## Step by Step Install
-1. menambah repository tema & icon
-2. jalankan perintah update (sudo apt update)
-3. install tema & icon
-4. install plymouth
-5. install aplikasi
-6. mengganti wallpaper desktop & lockscreen
-7. mengganti tampilan terminal
-8. mengganti lsb-release & issue
-9. menginstall Pinguy Builder
-10. melakukan Packing ISO
+1. Menambah repository tema & icon
+2. Menjalankan perintah update (sudo apt update)
+3. Install tema & icon
+4. Install plymouth
+5. Install aplikasi
+6. Mengganti wallpaper desktop & lockscreen
+7. Mengganti tampilan terminal
+8. Mengganti lsb-release & issue
+9. Menginstall Pinguy Builder
+10. Melakukan Packing ISO
 
 ## Tujuan Remastering
 1. Membantu proses belajar anak SD.
