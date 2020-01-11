@@ -17,5 +17,5 @@ TODO: Write usage instructions
 - Ifan Hidayat ( 4248 )                                      
 - Katon Pambudi Luhur ( 4231 )
 ## Links
-* [Link Video]
-* [Link ISO]
+* [Link Video] (https://www.youtube.com/playlist?list=PLvpWUIlZosHkNpKvoAePMKBpfyL-eJz8P)
+* [Link ISO] (https://drive.google.com/open?id=1CVjU8KZAce_NdJVaUiHaHJKUJHHXUePh)
